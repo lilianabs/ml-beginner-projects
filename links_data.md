@@ -19,3 +19,9 @@
 ## Project 5
 
 * Space titanic
+
+**Note:** Also consider the following classification problems: 
+
+  * https://www.interviewquery.com/p/classification-projects 
+  * https://www.interviewquery.com/p/machine-learning-projects
+  * https://www.interviewquery.com/p/regression-datasets-and-projects 
