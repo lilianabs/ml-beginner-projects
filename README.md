@@ -6,3 +6,5 @@ This repo contains Machine Learning beginner projects and solutions. Currenly, i
   * [Boston housing](project_1/notebooks/boston.ipynb)
 * Project 2 - Classification
   * [Iris](project_2/notebooks/iris.ipynb)
+* Project 3 - Classification
+  * [Breast cancer](project_3/breast_cancer.ipynb)
