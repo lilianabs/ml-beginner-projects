@@ -4,6 +4,7 @@ This repo contains Machine Learning beginner projects and solutions. Currenly, i
 * Project 1 - Linear regression
   * [Salary](project_1/notebooks/salary.ipynb)
   * [Boston housing](project_1/notebooks/boston.ipynb)
+  * [Regression techniques](project_1/notebooks/regression_techniques.ipynb)
 * Project 2 - Classification
   * [Iris](project_2/notebooks/iris.ipynb)
 * Project 3 - Classification
