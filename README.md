@@ -9,3 +9,6 @@ This repo contains Machine Learning beginner projects and solutions. Currenly, i
   * [Iris](project_2/notebooks/iris.ipynb)
 * Project 3 - Classification
   * [Breast cancer](project_3/breast_cancer.ipynb)
+  
+  
+  All of the data that is used in the notebooks above can be found in the folder `data/`.
