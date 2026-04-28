@@ -9,6 +9,8 @@ This repo contains Machine Learning beginner projects. Currenly, it contains the
   * [Iris](project_2/notebooks/iris.ipynb)
 * Project 3 - Classification
   * [Breast cancer](project_3/breast_cancer.ipynb)
+* Project 4 - Spam Ham
+  * [Spam Ham](project_4/spam_ham.ipynb)  
   
   
   All of the data that is used in the notebooks above can be found in the folder `data/`.
